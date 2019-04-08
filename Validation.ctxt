@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Validation()
+comment0.text=\r\n\ Default\ constructor\ of\ Validation\ class\r\n
+comment1.params=list
+comment1.target=Validation(java.util.List)
+comment1.text=\r\n\ Constructor\ of\ Validation\ class\r\n\ @param\ list\ The\ list\ of\ movies\r\n
+comment2.params=title\ list
+comment2.target=boolean\ validMovie(java.lang.String,\ java.util.List)
+comment2.text=\r\n\ Method\ to\ vaildate\ Movie's\ title\r\n\ @param\ title\ The\ title\ of\ movie\r\n\ @param\ list\ The\ list\ of\ movies\r\n
+numComments=3

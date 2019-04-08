@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FileOperation()
+comment0.text=\r\n\ Default\ constructor\ of\ FileOperation\ class\r\n\r\n
+comment1.params=movieList
+comment1.target=FileOperation(java.util.List)
+comment1.text=\r\n\ Constructor\ of\ FileOperation\ class\r\n\ @param\ movieList\ The\ list\ of\ movies\r\n\ \ \r\n
+comment2.params=movieList
+comment2.target=void\ read(java.util.List)
+comment2.text=\r\n\ Static\ method\ of\ reading\ file\r\n\ @param\ movieList\ The\ list\ of\ movies\r\n\ \ \r\n
+comment3.params=movieList
+comment3.target=void\ write(java.util.List)
+comment3.text=\r\n\ Static\ method\ of\ writing\ file\r\n\ @param\ movieList\ The\ list\ of\ movies\r\n\ \ \r\n
+numComments=4
